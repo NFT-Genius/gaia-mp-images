@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'IBMPlexMono';
+  src: url('./IBM_Plex_Mono/IBMPlexMono-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'StaffGroteskBold';
+  src: url('./Staff_Grotesk/StaffGrotesk-Bold.otf');
+  font-weight: 700;
+  font-style: normal;
+}
